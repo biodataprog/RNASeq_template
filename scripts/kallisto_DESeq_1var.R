@@ -17,7 +17,7 @@ head(txi.kallisto$counts)
 colnames(txi.kallisto$counts) <- samples$Name
 colnames(txi.kallisto$abundance) <- samples$Name
 write.csv(txi.kallisto$abundance,"reports/kallisto.TPM.csv")
-write.csv(txi.kallisto$counts,"reports/kallisto_single.counts.csv")
+write.csv(txi.kallisto$counts,"reports/kallisto.counts.csv")
 
 # DEseq2 analyses
 #geno = samples$Genotype
