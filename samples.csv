@@ -1,7 +1,3 @@
 SAMPLE,Condition,Replicate,FilenameBase
-MyceliaA,Mycelia,1,MyceliaA_S66_L004
-MyceliaB,Mycelia,2,MyceliaB_S67_L004
-Spherule48hA,Spherule48H,1,Spherule48hA_S68_L004
-Spherule48hB,Spherule48H,2,Spherule48hB_S69_L004
-Spherule8dA,Spherule8D,1,Spherule8dA_S70_L004
-Spherule8dB,Spherule8D,2,Spherule8dB_S71_L004
+Sample1,Mycelia,1,SRR1234
+Sample2,Mycelia,2,SRR1235
